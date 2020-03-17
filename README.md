@@ -1,2 +1,0 @@
-# gojkrj.github.io
-website
